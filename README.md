@@ -32,7 +32,7 @@
 To get an ID, simply send the command /id directly to any chat or send it as a reply to any kind of message.
 ```
 ## Credits
-- [ID-BOT](https://github.com/teletips)
+- [ID-BOT](https://github.com/ZIYAN-SER)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 ## Warning
