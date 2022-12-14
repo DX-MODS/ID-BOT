@@ -13,7 +13,7 @@ IdBotByZiyan=Client(
 @IdBotByZiyan.on_message(filters.command('start') & filters.private)
 async def start(client, message):
     text = f"""
-Heya {message.from_user.mention},
+Hey {message.from_user.mention},
 I am here to provide Telegram user and chat ID.
 
 To get ID, simply send the command <code>/id</code> directly to any chat or send it as a reply to any message.
